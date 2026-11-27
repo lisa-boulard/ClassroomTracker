@@ -1,18 +1,13 @@
-<p align="center">
-  <img src="web/icons/Icon-192.png" alt="Logo ClassroomTracker" width="96" />
-</p>
+présentation :
+[ClassroomTracker.pdf](https://github.com/user-attachments/files/35516522/ClassroomTracker.pdf)
+  <br />
+rapport :
+[Rapport final (3).pdf](https://github.com/user-attachments/files/35516510/Rapport.final.3.pdf)
 
-<h1 align="center">ClassroomTracker</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/github/v/release/Temiyoko/ClassroomTracker" alt="Dernière version" />
-</p>
-
-<p align="center">
-  Application développée par <a href="https://github.com/Temiyoko">Julia LEVEQUE</a> et <a href="https://github.com/justfreezo">Paulo MARTINS</a>.
+  Application développée par Julia LEVEQUE et Paulo MARTINS</a>.
+  <br />
+  Code développé par Lisa BOULARD, Titouan FOURNEAU.
   <br />
   Projet E3 · ESIEE Paris · Journée des Projets 2026
 </p>
