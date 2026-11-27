@@ -4,6 +4,7 @@ rapport :
 
 
   Application développée par Julia LEVEQUE et Paulo MARTINS</a>.
+    <br />
   Code sur la Rapsberry Pi5 développé par : Lisa BOULARD, Titouan FOURNEAU, Zoé CARRUETTE et Manon CIPCIC.
   <br />
   Projet E3 · ESIEE Paris · Journée des Projets 2026
