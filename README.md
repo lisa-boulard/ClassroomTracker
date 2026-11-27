@@ -7,8 +7,6 @@ rapport :
 
   Application développée par Julia LEVEQUE et Paulo MARTINS</a>.
   <br />
-  Code développé par Lisa BOULARD, Titouan FOURNEAU.
-  <br />
   Projet E3 · ESIEE Paris · Journée des Projets 2026
 </p>
 
