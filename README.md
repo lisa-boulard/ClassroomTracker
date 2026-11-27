@@ -1,11 +1,10 @@
-présentation :
-[ClassroomTracker.pdf](https://github.com/user-attachments/files/35516522/ClassroomTracker.pdf)
-  <br />
+
 rapport :
-[Rapport final (3).pdf](https://github.com/user-attachments/files/35516510/Rapport.final.3.pdf)
+[Rapport_projet.pdf](https://github.com/user-attachments/files/35516635/Rapport_projet.pdf)
 
 
   Application développée par Julia LEVEQUE et Paulo MARTINS</a>.
+  Code sur la Rapsberry Pi5 développé par : Lisa BOULARD, Titouan FOURNEAU, Zoé CARRUETTE et Manon CIPCIC.
   <br />
   Projet E3 · ESIEE Paris · Journée des Projets 2026
 </p>
